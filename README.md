@@ -1,5 +1,6 @@
 # DataScience
 # Bloque 1
+## Fundamentos de python
 ## Probabilidad y estadistica
 [Presentación Técnica Patrones Secuenciales](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Presentaci%C3%B3n_PatronesSecuenciales_002.pdf)
 
