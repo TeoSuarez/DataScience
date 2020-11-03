@@ -4,10 +4,12 @@
 [Fundamentos de python parte 1](https://github.com/TeoSuarez/DataScience/blob/main/Fundamentos_de_Python_Parte_2.ipynb)
 
 [Fundamentos de python parte 2](https://github.com/TeoSuarez/DataScience/blob/main/Fundamentos_de_Python_Parte_2.ipynb)
+
+[Ejercicios python 1](https://github.com/TeoSuarez/DataScience/blob/main/Ejercicios%201.ipynb)
 ## Probabilidad y estadistica
 
 
-[Ejercicios 1](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/Ejercicios1_Equipo8_Gpo002.pdf)
+
 
 [Mapa Mental](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/MapaMental_1_1806069.pdf)
 
