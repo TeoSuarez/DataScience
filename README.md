@@ -1,8 +1,10 @@
 # DataScience
 # Bloque 1
 ## Fundamentos de python
+[Fundamentos de python parte 1](https://github.com/TeoSuarez/DataScience/blob/main/Fundamentos_de_Python_Parte_1.ipynb)
+
 ## Probabilidad y estadistica
-[Presentación Técnica Patrones Secuenciales](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Presentaci%C3%B3n_PatronesSecuenciales_002.pdf)
+
 
 [Ejercicios 1](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/Ejercicios1_Equipo8_Gpo002.pdf)
 
